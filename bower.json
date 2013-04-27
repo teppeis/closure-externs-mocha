@@ -1,5 +1,5 @@
 {
   "name": "closure-externs-mocha",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": ["mocha.js", "mocha-bdd.js", "mocha-tdd.js", "mocha-qunit.js"]
 }
