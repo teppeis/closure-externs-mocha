@@ -106,7 +106,7 @@ function Runner(suite) {}
 
 /**
  * @param {RegExp} re
- * @param {Boolean} invert
+ * @param {boolean} invert
  * @return {Runner} for chaining
  */
 Runner.prototype.grep = function(re, invert) {};
