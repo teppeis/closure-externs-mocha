@@ -2,10 +2,6 @@
   "name": "closure-externs-mocha",
   "version": "1.0.0",
   "description": "Mocha externs for Closure Compiler.",
-  "main": "mocha.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/teppeis/closure-externs-mocha.git"
@@ -14,7 +10,7 @@
     "mocha",
     "closure"
   ],
-  "author": "teppeis@gmail.com",
+  "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "gitHead": "0eb7853f740df460f63159cc63ab456464850d27"
