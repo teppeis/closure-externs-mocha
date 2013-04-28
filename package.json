@@ -1,6 +1,6 @@
 {
   "name": "closure-externs-mocha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocha externs for Closure Compiler.",
   "repository": {
     "type": "git",
